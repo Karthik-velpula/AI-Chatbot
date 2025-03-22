@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Insert your API key here
-    const API_KEY = 'AIzaSyBuuwKUndto1-G8Qf96eWjCQpPsLckDy1Y';
+    const API_KEY = 'Use your API';
 
     // Updated Gemini API endpoint
     const GEMINI_API_ENDPOINT = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent';
