@@ -48,5 +48,3 @@ To use the AI-ChatBot, simply open the main HTML file in a modern web browser. T
 ## Conclusion
 
 This AI-ChatBot project serves as a practical example of how modern web technologies and AI APIs can be combined to create an engaging conversational interface. It demonstrates key concepts such as responsive design, real-time interaction, and dynamic content generation, making it an excellent foundation for further experimentation and development in the field of AI-driven communication.
-
-Feel free to explore, modify, and extend this project as you see fit. Happy coding!
